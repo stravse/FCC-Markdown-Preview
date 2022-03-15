@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+
+$bg-color: #28334AFF;
+$highlight-color: #FBDE44FF;
+.banner{
+    width: auto;
+    padding: 0.3em;
+    background-color: $bg-color;
+    color: $highlight-color;
+    margin: 0;
+    font-family: 'Rubik', sans-serif;
+    font-size: 1.2em;
+    border: 2px solid #F65058FF;
+}
