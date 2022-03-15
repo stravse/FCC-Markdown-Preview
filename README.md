@@ -12,8 +12,4 @@ I learned a whole lot even though I thought that the project was a bit boring si
 
 ## Things that did not went into the final build
 
-<<<<<<< HEAD
 Initially I wanted to make prismjs work so that the preview will have some syntax highlighting but prismjs don't work with dynamic content like this project which was a bummer since I thought that it would make the preview look cool for things that have the code tag.
-=======
-Initially I wanted to make prismjs work so that the preview will have some syntax highlighting but prismjs don't work with dynamic content like this project which was a bummer since I thought that it would make the preview look cool for things that have the code tag.
->>>>>>> e587b5fecf0a9b8dc7e6feeefe82ff78e46c331f
